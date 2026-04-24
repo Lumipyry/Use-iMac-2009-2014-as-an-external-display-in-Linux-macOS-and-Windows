@@ -1,9 +1,6 @@
 <img width="1560" height="720" alt="kuva" src="https://github.com/user-attachments/assets/9adc0e38-cad7-4102-8f09-0e16c690ec9e" />
 
-***
-
-_In finnish - Suomenkielinen versio osoitteessa [
-iMac-toisena-monitorina-Linux-macOS-Windows
+_In finnish - Suomenkielinen versio osoitteessa [iMac-toisena-monitorina-Linux-macOS-Windows
 ](https://github.com/Lumipyry/iMac-2009-2014-toisena-monitorina-Linux-macOS-Windows)_
 
 Applicable with iMac models 2009-2014.
