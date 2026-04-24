@@ -1,23 +1,19 @@
 ![imac-target-display-mode-hero](https://github.com/user-attachments/assets/f5948c13-a0b7-4bae-abd1-c50fb6f6df32)
 
 _In finnish - Suomenkielinen versio osoitteessa [
-iMac-Target-Display-Mode-Linuxissa
-](https://github.com/Lumipyry/iMac-Target-Display-Mode-Linuxissa)_
+iMac-toisena-monitorina-Linux-macOS-Windows
+](https://github.com/Lumipyry/iMac-2009-2014-toisena-monitorina-Linux-macOS-Windows)_
 ######
+Applicable with iMac models 2009-2014.
 
+External display is set On and Off by pressing Powerbutton.
 
-This is a step-by-step instruction for [smc_util](https://github.com/floe/smc_util) including [Powerbutton support](https://github.com/floe/smc_util/pulls) by [FreekMank](https://github.com/floe/smc_util/pull/11/commits).
-
-Target Display Mode is set On and Off by pressing Powerbutton.
-
-Applicable with iMac models [2009 - 2014](https://support.apple.com/en-us/105126). Needs to have Apple High Sierra or earlier (Dual boot with Linux) in the iMac which is used as external display.
+This is a step-by-step instruction for [smc_util](https://github.com/floe/smc_util) including [Powerbutton support](https://github.com/floe/smc_util/pulls) by [FreekMank](https://github.com/floe/smc_util/pull/11/commits). Needs to have Apple High Sierra or earlier (Dual boot with Linux) in the iMac which is used as external display.
 
 Proven to work with MiniDisplay Port cable. No personal experiences with Thunderbolt cable. Tested with iMac models 2009-2011.
 
-The Off to work - First disable second display in your primary computer - then press Powerbutton in the display iMac.
-
-This text is also in https://superuser.com/questions/1932625/use-imac-in-linux-as-an-external-display-in-target-display-mode/1932626#1932626
-
+If the main machine has macOS another option is to use native screen mirroring/external display - function by installing macOS Sequoia with [Open Core Legacy Patcher](https://github.com/dortania/Opencore-Legacy-Patcher). A good video for 
+[installing](https://www.youtube.com/watch?v=in5-3EjKFqA). Personally I got mirroring to work in an 2011 21" iMac by installing Sequoia but not in an 2010 27" iMac.
 ***
 
 **NOTE**: You may want to leave `rc.local` out of the installation (`Step 16`) - if and when you want also use the Linux OS of the display machine. (`rc.local` makes the machine boot directly to Target Display Mode)
