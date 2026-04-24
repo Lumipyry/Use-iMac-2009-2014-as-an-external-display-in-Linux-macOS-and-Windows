@@ -8,6 +8,8 @@ Applicable with iMac models 2009-2014.
 
 External display is set On and Off by pressing Powerbutton.
 
+The main machine can have either macOS, Linux or Windows.
+
 This is a step-by-step instruction for [smc_util](https://github.com/floe/smc_util) including [Powerbutton support](https://github.com/floe/smc_util/pulls) by [FreekMank](https://github.com/floe/smc_util/pull/11/commits). Needs to have Apple High Sierra or earlier (Dual boot with Linux) in the iMac which is used as external display.
 
 Proven to work with MiniDisplay Port cable. No personal experiences with Thunderbolt cable. Tested with iMac models 2009-2011.
