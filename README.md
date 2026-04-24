@@ -1,4 +1,5 @@
-![imac-target-display-mode-hero](https://github.com/user-attachments/assets/f5948c13-a0b7-4bae-abd1-c50fb6f6df32)
+<img width="1560" height="720" alt="kuva" src="https://github.com/user-attachments/assets/9adc0e38-cad7-4102-8f09-0e16c690ec9e" />
+
 
 _In finnish - Suomenkielinen versio osoitteessa [
 iMac-toisena-monitorina-Linux-macOS-Windows
